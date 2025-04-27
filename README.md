@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/hume-public-logos/hume/hume-banner.png">
-  <h1>Expression Measurement | Next.js Streaming Example</h1>
+  <img src="./public/drlee_logo_v2.png" alt="Dr. Lee Logo" width="300">
+  <h1>Dr. Lee's Expression Analysis</h1>
   <p>
-    <strong>Real-time Streaming of Facial, Vocal, and Language Expressions.</strong>
+    <strong>Advanced Real-time Facial Expression Analysis with 48 Emotion States</strong>
   </p>
 </div>
 
 ## Overview
 
-This repo contains a NextJS app for demoing and testing Hume APIs. It implements several streaming interfaces that provide an intuitive validation of model quality.
+This application provides a sophisticated facial expression analysis platform powered by the Hume AI API. It features real-time streaming capabilities that can detect and measure 48 different emotional states with high accuracy.
 
-You can try it out here: https://hume-sandbox.netlify.app
 
 ## Requirements
 
@@ -27,4 +26,4 @@ Development mode will start serving on `localhost:3001`.
 
 ## Production
 
-The sandbox deploys on Netlify on merge to the main branch.
+This application can be deployed to any hosting platform that supports Next.js applications, such as Vercel, Netlify, or a custom server.
