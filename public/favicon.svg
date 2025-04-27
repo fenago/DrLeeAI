@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="30" fill="#4a5568"/>
+  <!-- Fancy Letter E -->
+  <path d="M18,16 C24,14 36,14 42,16 C44,17 44,19 42,20 C36,22 24,22 20,20 M18,16 L18,48 C18,50 20,50 22,50 C28,52 40,52 46,50 C48,49 48,47 46,46 C40,44 28,44 24,46 M18,30 C18,30 22,28 32,28 C42,28 44,30 44,31 C44,32 42,34 40,33 C38,32 32,32 30,32" 
+    stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
